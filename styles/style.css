@@ -19,8 +19,8 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-family: sans-serif;
 }
 
 a:hover, a:active {
-  background-color: grey;
-}
+  background-color: gray;
