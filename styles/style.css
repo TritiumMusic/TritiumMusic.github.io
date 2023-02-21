@@ -29,4 +29,12 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: grey;
+  background-color: grey
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
