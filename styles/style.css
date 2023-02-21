@@ -30,7 +30,7 @@ li {
 }
 
 .navbar {
-  background-color: grey;
+  background-color: darkgrey;
   overflow: hidden;
 }
 
@@ -47,9 +47,6 @@ li {
   background-color: gainsboro;
 }
 
-.navbar a.active {
-  background-color: darkgray;
-}
 
 
 
