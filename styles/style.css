@@ -1,7 +1,12 @@
-  h1 {
+body {
+background-color: black;
+
+}
+h1 {
   font-size: 60px;
   text-align: center;
   font-family: sans-serif;
+  font-color: white;
 }
 
 p,
@@ -11,9 +16,10 @@ li {
   line-height: 2;
   letter-spacing: 1px;
   font-family: sans-serif;
+  font-color: white;
 }
 a:link, a:visited {
-  background-color: black;
+  background-color: grey;
   color: white;
   padding: 14px 25px;
   text-align: center;
@@ -23,4 +29,4 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: gray;
+  background-color: light-grey;
