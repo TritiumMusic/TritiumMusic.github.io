@@ -20,7 +20,7 @@ li {
 }
 a:link, a:visited {
   background-color: grey;
-  color: darkgrey;
+  color: white;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
@@ -29,7 +29,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: grey
+  background-color: darkgrey;
 }
 
 .center {
