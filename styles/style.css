@@ -9,27 +9,13 @@ h1 {
   color: white;
 }
 
-p,
-li {
+p {
   font-size: 16px;
   text-align: center;
   line-height: 2;
   letter-spacing: 1px;
   font-family: sans-serif;
   color: white;
-}
-a:link, a:visited {
-  background-color: grey;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-family: sans-serif;
-}
-
-a:hover, a:active {
-  background-color: darkgrey;
 }
 
 .center {
@@ -38,3 +24,25 @@ a:hover, a:active {
   margin-right: auto;
   width: 50%;
 }
+
+
+.navbar {
+  background-color: grey;
+  overflow: hidden;
+}
+
+.navbar a:link, a:visited{
+    color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: sans-serif;
+}
+
+.navbar a:hover, a:active {
+  background-color: darkgrey
+}
+
+
+
