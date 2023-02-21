@@ -9,7 +9,8 @@ h1 {
   color: white;
 }
 
-p {
+p,
+li {
   font-size: 16px;
   text-align: center;
   line-height: 2;
@@ -18,13 +19,15 @@ p {
   color: white;
 }
 
+
+
+
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
-
 
 .navbar {
   background-color: grey;
@@ -41,7 +44,11 @@ p {
 }
 
 .navbar a:hover, a:active {
-  background-color: darkgrey
+  background-color: gainsboro;
+}
+
+.navbar a.active {
+  background-color: darkgray;
 }
 
 
