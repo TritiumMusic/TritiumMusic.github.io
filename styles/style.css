@@ -35,6 +35,7 @@ li {
 .navbar img {
   margin-left: auto;
   margin-right: auto;
+  padding: 14px 25px;
 }
 
 .navbar a:link, a:visited{
