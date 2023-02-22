@@ -29,7 +29,7 @@ li {
 }
 
 .navbar {
-  background-color: grey;
+  background-color: black;
   overflow: hidden;
 }
 .navbar img {
@@ -51,9 +51,6 @@ li {
   background-color: gainsboro;
 }
 
-a.active {
-  background-color: darkgray;
-}
 
 .follow {
   background-color: grey;
