@@ -64,5 +64,8 @@ body {
     text-decoration: none;
   }
   
+  .follow a:hover, a:active {
+    background-color: gainsboro;
+  }
   
   
