@@ -78,3 +78,7 @@ footer {
   height: 40px;
   background-color: gray;
         }
+footer a {
+    text-decoration: none;
+
+}
