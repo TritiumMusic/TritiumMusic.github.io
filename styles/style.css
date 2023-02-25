@@ -62,6 +62,7 @@ li {
   text-align: center;
   font-family: sans-serif;
   text-decoration: none;
+  color: white;
 }
 .follow a:hover, a:active {
   background-color: gainsboro;
@@ -80,5 +81,6 @@ footer {
         }
 footer a {
     text-decoration: none;
+    color: white;
 
 }
